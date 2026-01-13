@@ -30,4 +30,4 @@ Normalization: Converts the source number to Decimal (Base 10) using positional 
 Transformation: Converts the decimal value to the target base using the Euclidean division algorithm.
 
 👤 Author
-Caio Toledo - [LinkedIn](https://www.google.com/search?q=LINK_DO_SEU_LINKEDIN)
+Caio Toledo - [LinkedIn](https://www.linkedin.com/in/caio-toledo-sousa)
